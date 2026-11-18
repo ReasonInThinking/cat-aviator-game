@@ -1,1 +1,1 @@
-FOR GAME - (https://reasoninthinking.github.io/cat-aviator-game/)[Click]
+FOR GAME - [CLICK](https://reasoninthinking.github.io/cat-aviator-game/)
